@@ -1,5 +1,5 @@
 # Eventy-UXD
-Semestral proyect fo User and Design Experience, II-2025, Eventy is an app designed to connect interested users into events, fairs and near activities.
+Semester project fo User and Design Experience, II-2025, Eventy is an app designed to connect interested users into events, fairs and near activities.
 Proyecto Semestral Diseño de Experiencia de Usuario, II-2025. Eventy es una app que conecta a los usuarios con eventos, ferias y actividades cercanas. 
 
 
@@ -11,7 +11,7 @@ Imagen del Canvas
 Canvas de Valor – Eventy
 
 Segmento de Cliente: Organizadores de eventos
-Client side: Event Organizator
+Client side: Event Organizer
 
 Jobs
 
@@ -44,7 +44,7 @@ Products and Services
 Productos y Servicios
 
 Organization Panel
-Event Analitics Panels
+Event Analytics Panel
 Pain Relievers
 
 Panel organizador
@@ -61,8 +61,9 @@ Interfaz clara y fluida
 Sistema para revisar feedback de usuarios.
 Gain Creators
 
-Colaborative difusion
-Comunity generation tools
+Collaborative promotion
+Community generation tools
+Event promotion tools
 Other segment clients
 
 Difusión colaborativa
@@ -74,3 +75,8 @@ Además de los organizadores, Eventy considera otros perfiles clave:
 Público casual (universitarios): buscan experiencias accesibles, espontáneas y sociales.
 Turistas: interesados en eventos locales, culturales o experienciales.
 Interesados o público específico: personas con gustos definidos que buscan eventos afines y estar notificados de cualquier actualización del mismo.
+
+
+
+
+
