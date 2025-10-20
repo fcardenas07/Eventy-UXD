@@ -20,8 +20,7 @@ A Local Event Discovery Platform
 6. [Skeleton](#6-skeleton)
    - [Low-Fidelity Wireframes](#61-low-fidelity-wireframes)
 7. [Surface](#7-surface)
-   - [WireFrames Interface](#71-wireframes-interface)
-   - [High-Fidelity Interfaces](#72-high-fidelity-interfaces)
+   - [High-Fidelity Interfaces](#71-high-fidelity-interfaces)
 
 ---
 
@@ -157,16 +156,11 @@ Eventy’s main sections:
 
 ## 7. Surface
 
-### 7.1 WireFrames Interface
-
-![Interface Evolution Placeholder](path/to/interface_evolution.png)
-
-### 7.2 High-Fidelity Interfaces
+### 7.1 High-Fidelity Interfaces
 
 - Home / Event Discovery: featured events, search, filters
 - Event Detail: info, map, reviews, ticketing
 - User / Organizer Profile: attended/created events, reviews, personal data
-- Reviews Section: top-rated events, sorting, filtering
 - Support & Help: assistance and contact
 
 ![High-Fidelity Interfaces Placeholder](path/to/high_fidelity_interfaces.png)
