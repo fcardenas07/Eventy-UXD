@@ -4,25 +4,24 @@ A Local Event Discovery Platform
 
 ## Index
 
-1. Introduction
-   - 1.1 The Problem
-   - 1.2 Our Solution
-2. Team & Roles
-3. Strategy
-   - 3.1 Value Proposition Canvas
-   - 3.2 UX Personas
-   - 3.3 Benchmarking
-4. Scope
-   - 4.1 Customer Journey Map
-   - 4.1.1 Decision Stage Interfaces
-5. Structure
-   - 5.1 Navigation Flow
-6. Skeleton
-   - 6.1 Low-Fidelity Wireframes
-7. Surface
-   - 7.1 Interface Evolution
-   - 7.2 Results of the Heuristic Evaluation
-   - 7.3 High-Fidelity Interfaces
+1. [Introduction](#1-introduction)
+   - [The Problem](#11-the-problem)
+   - [Our Solution](#12-our-solution)
+2. [Team & Roles](#2-team--roles)
+3. [Strategy](#3-strategy)
+   - [Value Proposition Canvas](#31-value-proposition-canvas)
+   - [UX Personas](#32-ux-personas)
+   - [Benchmarking](#33-benchmarking)
+4. [Scope](#4-scope)
+   - [Customer Journey Map](#41-customer-journey-map)
+   - [Decision Stage Interfaces](#411-decision-stage-interfaces)
+5. [Structure](#5-structure)
+   - [Navigation Flow](#51-navigation-flow)
+6. [Skeleton](#6-skeleton)
+   - [Low-Fidelity Wireframes](#61-low-fidelity-wireframes)
+7. [Surface](#7-surface)
+   - [WireFrames Interface](#71-wireframes-interface)
+   - [High-Fidelity Interfaces](#72-high-fidelity-interfaces)
 
 ---
 
@@ -30,7 +29,7 @@ A Local Event Discovery Platform
 
 ### 1.1 The Problem
 
-People interested in cultural, recreational, or academic activities often miss events that match their interests because information is scattered across multiple sources,social media, outdated websites, or informal channels.  
+People interested in cultural, recreational, or academic activities often miss events that match their interests because information is scattered across multiple sources, social media, outdated websites, or informal channels.  
 Meanwhile, local organizers struggle to promote their activities effectively due to limited marketing resources and the lack of accessible digital tools.
 
 **Pain points include**:
@@ -42,7 +41,7 @@ Meanwhile, local organizers struggle to promote their activities effectively due
 
 ### 1.2 Our Solution
 
-Eventy was created to bridge that gap — connecting people with the experiences around them while giving visibility to local organizers.  
+Eventy was created to bridge that gap, connecting people with the experiences around them while giving visibility to local organizers.  
 The app brings together event information into one simple, location-based, and personalized platform that helps users easily discover, share, and attend activities that matter to them.
 
 Key features:
@@ -89,11 +88,11 @@ Key features:
 
 ### 3.2 UX Personas
 
-- **Diego:** Student, limited budget, seeks free/low-cost local activities
+- **Diego:** Student, limited budget, seeks free/low-cost local activities  
   ![UX Personas Placeholder](./assets/persona-ux/v2/1.png)
-- **Felipe:** Working professional seeking high-quality cultural/social experiences
+- **Felipe:** Working professional seeking high-quality cultural/social experiences  
   ![UX Personas Placeholder](./assets/persona-ux/v2/3.png)
-- **Valentina:** Organizer, aims for better visibility and engagement of her events
+- **Valentina:** Organizer, aims for better visibility and engagement of her events  
   ![UX Personas Placeholder](./assets/persona-ux/v2/2.png)
 
 ### 3.3 Benchmarking
@@ -106,7 +105,7 @@ Key features:
 - Limited social or calendar features in existing platforms
 - Opportunity for Eventy: regionally inclusive, personalized, and community-focused
 
-![Benchmarking Placeholder](/assets/Benchmark/Benchmark.png)
+![Benchmarking Placeholder](./assets/Benchmark/Benchmark.png)
 
 ---
 
@@ -122,6 +121,13 @@ Key stages:
 4. **Loyalty & Advocacy:** Share events, follow organizers, leave feedback
 
 ![Customer Journey Map Placeholder](./assets/Customer%20Journay%20Map/Customer%20Journey%20Map.jpeg)
+
+### 4.1.1 Decision Stage Interfaces
+
+- Explore events using map or list view
+- Filter events by category, date, accessibility, price
+- View event details including location, schedule, tickets, reviews
+- Confirm attendance, share events, add to calendar
 
 ---
 
