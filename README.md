@@ -150,7 +150,7 @@ Eventy’s main sections:
 - Organizer Panel
 - Calendar & Notifications
 
-![Low-Fidelity Wireframes Placeholder](path/to/low_fidelity_wireframes.png)
+![Low-Fidelity Wireframes](https://www.figma.com/design/3WD7RXPMW6taBvm9YXsUaM/Wireframes?node-id=0-1&m=dev&t=TWiUbswBAx1Loylt-1)
 
 ---
 
@@ -163,4 +163,4 @@ Eventy’s main sections:
 - User / Organizer Profile: attended/created events, reviews, personal data
 - Support & Help: assistance and contact
 
-![High-Fidelity Interfaces Placeholder](path/to/high_fidelity_interfaces.png)
+![High-Fidelity Interfaces Placeholder](https://www.figma.com/design/hBHZViB4UoFl7QPvhv5x88/Mock-up?node-id=200-290&m=dev&t=NQ8psCGYj9dW6146-1)
