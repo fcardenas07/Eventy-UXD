@@ -1,82 +1,166 @@
-# Eventy-UXD
-Semester project fo User and Design Experience, II-2025, Eventy is an app designed to connect interested users into events, fairs and near activities.
-Proyecto Semestral Diseño de Experiencia de Usuario, II-2025. Eventy es una app que conecta a los usuarios con eventos, ferias y actividades cercanas. 
+# Eventy
 
+A Local Event Discovery Platform
 
-Canvas de Propuesta de Valor – Eventy
-Canvas Competitive Analysis
+## Index
 
-Imagen del Canvas
+1. Introduction
+   - 1.1 The Problem
+   - 1.2 Our Solution
+2. Team & Roles
+3. Strategy
+   - 3.1 Value Proposition Canvas
+   - 3.2 UX Personas
+   - 3.3 Benchmarking
+4. Scope
+   - 4.1 Customer Journey Map
+   - 4.1.1 Decision Stage Interfaces
+5. Structure
+   - 5.1 Navigation Flow
+6. Skeleton
+   - 6.1 Low-Fidelity Wireframes
+7. Surface
+   - 7.1 Interface Evolution
+   - 7.2 Results of the Heuristic Evaluation
+   - 7.3 High-Fidelity Interfaces
 
-Canvas de Valor – Eventy
+---
 
-Segmento de Cliente: Organizadores de eventos
-Client side: Event Organizer
+## 1. Introduction
 
-Jobs
+### 1.1 The Problem
 
-Publish Events
+People interested in cultural, recreational, or academic activities often miss events that match their interests because information is scattered across multiple sources,social media, outdated websites, or informal channels.  
+Meanwhile, local organizers struggle to promote their activities effectively due to limited marketing resources and the lack of accessible digital tools.
 
-Atraer asistentes
-Publicar eventos
-Difundir eventos
-Pains
+**Pain points include**:
 
-Low assistance
-Problems while sharing events
-Gains
+- Overpaying for events that don't meet expectations
+- Poor promotion and visibility of local events
+- Lack of real-time updates or notifications
+- Limited social interaction with attendees
 
-Baja asistencia
-Dificultad para difundir eventos
-Gains
+### 1.2 Our Solution
 
-More Visibility
-Easy Publishing
-Events Promotion
-Value Proposition Canvas
+Eventy was created to bridge that gap — connecting people with the experiences around them while giving visibility to local organizers.  
+The app brings together event information into one simple, location-based, and personalized platform that helps users easily discover, share, and attend activities that matter to them.
 
-Mayor visibilidad
-Publicar fácilmente
-Promover sus eventos
-Propuesta de Valor: Eventy
+Key features:
 
-Products and Services
-Productos y Servicios
+- Interactive map showing nearby events
+- Personalized feed of events
+- Integrated calendar and reminders
+- Social sharing and attendee interaction
+- Organizer tools for event creation and promotion
+- Ticketing and registration for free or paid events
+- Accessibility features (high contrast, adjustable text, mobility-friendly filters)
 
-Organization Panel
-Event Analytics Panel
-Pain Relievers
+---
 
-Panel organizador
-Panel de analíticas del evento
-Pain Relievers
+## 2. Team & Roles
 
-Notifications, Banners, Sounds, Badges
-Fluid and easy surface
-User feedback system
-Gain Creators
+- **Felipe Márquez** – Project Manager
+- **Diego Marillán** – Analyst & Presenter
+- **Francisco Cárdenas** – Designer
 
-Envío de alertas y recordatorios
-Interfaz clara y fluida
-Sistema para revisar feedback de usuarios.
-Gain Creators
+---
 
-Collaborative promotion
-Community generation tools
-Event promotion tools
-Other segment clients
+## 3. Strategy
 
-Difusión colaborativa
-Herramientas para generar comunidad
-Otros Segmentos de Cliente
+### 3.1 Value Proposition Canvas
 
-Además de los organizadores, Eventy considera otros perfiles clave:
+**Customer Segments**
 
-Público casual (universitarios): buscan experiencias accesibles, espontáneas y sociales.
-Turistas: interesados en eventos locales, culturales o experienciales.
-Interesados o público específico: personas con gustos definidos que buscan eventos afines y estar notificados de cualquier actualización del mismo.
+- **Attendees:** Discover events, stay informed, attend activities aligned with interests
+- **Organizers:** Publish events, attract attendees, collect feedback
 
+**Gains & Pains**
 
+- **Attendees:** Want clear, centralized information; struggle with scattered sources and missing events
+- **Organizers:** Struggle with engagement, marketing, and feedback analysis
 
+**Value Proposition**
 
+- **Pain Relievers:** Centralized information, intuitive interface, reminders, reviews & ratings, promotion tools
+- **Gain Creators:** Personalized recommendations, social interaction, calendar integration, higher visibility for local events
+- **Products & Services:** Organizer panel, event search, calendar integration, notifications, map and routing integration
 
+![Value Proposition Canvas Placeholder](./assets/Value%20Proposition%20Canvas/Value%20Proposition%20Canvas%20v2.png)
+
+### 3.2 UX Personas
+
+- **Diego:** Student, limited budget, seeks free/low-cost local activities
+  ![UX Personas Placeholder](./assets/persona-ux/v2/1.png)
+- **Felipe:** Working professional seeking high-quality cultural/social experiences
+  ![UX Personas Placeholder](./assets/persona-ux/v2/3.png)
+- **Valentina:** Organizer, aims for better visibility and engagement of her events
+  ![UX Personas Placeholder](./assets/persona-ux/v2/2.png)
+
+### 3.3 Benchmarking
+
+**Platforms analyzed:** Vesti, Ticketmaster, Fever, Eventrid
+
+**Insights:**
+
+- Gaps in local, geo-based event discovery
+- Limited social or calendar features in existing platforms
+- Opportunity for Eventy: regionally inclusive, personalized, and community-focused
+
+![Benchmarking Placeholder](/assets/Benchmark/Benchmark.png)
+
+---
+
+## 4. Scope
+
+### 4.1 Customer Journey Map
+
+Key stages:
+
+1. **Awareness:** Discover Eventy via social media/search
+2. **Consideration:** Explore events via map/list, apply filters
+3. **Decision:** Mark attendance, buy tickets, add to calendar
+4. **Loyalty & Advocacy:** Share events, follow organizers, leave feedback
+
+![Customer Journey Map Placeholder](./assets/Customer%20Journay%20Map/Customer%20Journey%20Map.jpeg)
+
+---
+
+## 5. Structure
+
+### 5.1 Navigation Flow
+
+Eventy’s main sections:
+
+![Navigation Flow Placeholder](./assets/Navegation%20Diagram/Navegation%20Diagram%20Eventy-V2.png)
+
+---
+
+## 6. Skeleton
+
+### 6.1 Low-Fidelity Wireframes
+
+- Home / Event Feed
+- Map View & List View
+- Event Detail Pages
+- Organizer Panel
+- Calendar & Notifications
+
+![Low-Fidelity Wireframes Placeholder](path/to/low_fidelity_wireframes.png)
+
+---
+
+## 7. Surface
+
+### 7.1 WireFrames Interface
+
+![Interface Evolution Placeholder](path/to/interface_evolution.png)
+
+### 7.2 High-Fidelity Interfaces
+
+- Home / Event Discovery: featured events, search, filters
+- Event Detail: info, map, reviews, ticketing
+- User / Organizer Profile: attended/created events, reviews, personal data
+- Reviews Section: top-rated events, sorting, filtering
+- Support & Help: assistance and contact
+
+![High-Fidelity Interfaces Placeholder](path/to/high_fidelity_interfaces.png)
