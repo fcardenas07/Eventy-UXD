@@ -14,7 +14,6 @@ A Local Event Discovery Platform
    - [Benchmarking](#33-benchmarking)
 4. [Scope](#4-scope)
    - [Customer Journey Map](#41-customer-journey-map)
-   - [Decision Stage Interfaces](#411-decision-stage-interfaces)
 5. [Structure](#5-structure)
    - [Navigation Flow](#51-navigation-flow)
 6. [Skeleton](#6-skeleton)
@@ -121,18 +120,14 @@ Key stages:
 
 ![Customer Journey Map Placeholder](./assets/Customer%20Journay%20Map/Customer%20Journey%20Map.jpeg)
 
-### 4.1.1 Decision Stage Interfaces
-
-- Explore events using map or list view
-- Filter events by category, date, accessibility, price
-- View event details including location, schedule, tickets, reviews
-- Confirm attendance, share events, add to calendar
-
 ---
 
 ## 5. Structure
 
 ### 5.1 Navigation Flow
+
+The navigation flow illustrates how users move through the core sections of Eventy, ensuring intuitive access to key functionalities such as event discovery, creation, and profile management.
+It provides a clear overview of the main user journeys and how different screens are connected to support a seamless experience.
 
 Eventy’s main sections:
 
@@ -144,13 +139,23 @@ Eventy’s main sections:
 
 ### 6.1 Low-Fidelity Wireframes
 
+The low-fidelity wireframes represent the initial visual structure of Eventy, focusing on layout, information hierarchy, and core user flows.  
+They are used to validate usability and navigation before moving on to high-fidelity design stages, allowing quick iteration and feedback from early testing.
+
+Key screens include:
+
 - Home / Event Feed
 - Map View & List View
 - Event Detail Pages
 - Organizer Panel
 - Calendar & Notifications
 
-![Low-Fidelity Wireframes Placeholder](path/to/low_fidelity_wireframes.png)
+These early prototypes help ensure intuitive navigation and clear information flow before advancing to the final design phase.
+
+The complete set of low-fidelity wireframes can be found in the following links:
+
+- 📄 [PDF version](./docs/Wireframes.pdf)
+- 🎨 [View on Figma](https://www.figma.com/design/3WD7RXPMW6taBvm9YXsUaM/Wireframes?node-id=0-1&p=f&t=VNTLRqJD4CHRhR73-0)
 
 ---
 
@@ -158,9 +163,18 @@ Eventy’s main sections:
 
 ### 7.1 High-Fidelity Interfaces
 
-- Home / Event Discovery: featured events, search, filters
-- Event Detail: info, map, reviews, ticketing
-- User / Organizer Profile: attended/created events, reviews, personal data
-- Support & Help: assistance and contact
+The high-fidelity interfaces represent the final visual stage of Eventy’s design process, showcasing the complete look and feel of the platform.  
+These screens incorporate visual consistency, accessibility improvements, and interactive components based on the validated low-fidelity prototypes.  
+Their goal is to provide a realistic preview of the final user experience before implementation.
 
-![High-Fidelity Interfaces Placeholder](path/to/high_fidelity_interfaces.png)
+Key screens include:
+
+- Home / Event Discovery: featured events, search, filters
+- Event Detail: detailed information, map integration, reviews, and ticketing
+- User / Organizer Profile: attended or created events, user reviews, personal data management
+- Support & Help: assistance and communication with the Eventy team
+
+The complete set of high-fidelity interfaces can be accessed through the following links:
+
+- 📄 [PDF version](./docs/Mock%20ups.pdf)
+- 🎨 [View on Figma](https://www.figma.com/design/hBHZViB4UoFl7QPvhv5x88/Mock-up?t=BEeUelzFHUvAH7xT-1)
