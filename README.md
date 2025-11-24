@@ -377,7 +377,8 @@ Attendees can:
 
 <img width="895" height="46" alt="Screenshot 2025-11-24 at 5 01 59 AM" src="https://github.com/user-attachments/assets/29c2274d-c92f-4a9c-b169-5c277064dffd" />
 
-<img width="788" height="445" alt="Screenshot 2025-11-24 at 5 02 31 AM" src="https://github.com/user-attachments/assets/1737af44-0b13-467e-bd8a-2be7d711ba0e" />
+<img width="967" height="545" alt="Screenshot 2025-11-24 at 5 11 41 AM" src="https://github.com/user-attachments/assets/ff00669d-c521-4399-a84a-b68a345c877f" />
+
 
 <img width="551" height="139" alt="Screenshot 2025-11-24 at 5 03 04 AM" src="https://github.com/user-attachments/assets/07698db1-3577-4b34-8bcc-3143868d0949" />
 
