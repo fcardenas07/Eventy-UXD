@@ -20,6 +20,9 @@ A Local Event Discovery Platform
    - [Low-Fidelity Wireframes](#61-low-fidelity-wireframes)
 7. [Surface](#7-surface)
    - [High-Fidelity Interfaces](#71-high-fidelity-interfaces)
+   - [Interface Evolution](#72-interface-evolution)
+   - [Results of the Heuristic Evaluation](#73-results-of-the-heuristic-evaluation)
+   - [High Definition Interfaces](#74-high-definition-interfaces)
 
 ---
 
@@ -173,6 +176,177 @@ Key screens include:
 - Event Detail: detailed information, map integration, reviews, and ticketing
 - User / Organizer Profile: attended or created events, user reviews, personal data management
 - Support & Help: assistance and communication with the Eventy team
+
+  ### 7.2 Interface Evolution
+
+  The initial versions of Eventy’s interface included a standard top navigation bar with the following options: Explore Events, Create Events With Us, Help, and Profile. As the project progressed and the scope became clearer, several adjustments were made to strengthen usability, consistency, and clarity.
+  
+During early iterations, event exploration relied primarily on a simple grid of cards. However, user feedback and heuristic evaluation revealed limitations in discoverability and category differentiation. We therefore expanded the interface to include clearer filtering, a category explorer, and a hybrid list/map browsing experience.
+
+Similarly, organizer tools were initially minimal, but later expanded into a full multi-step event creation flow, including General Information, Logistics, Access/Tickets, Promotion, and Visual Identity. These additions were essential for representing actual organizer needs and completing the product story.
+
+Furthermore, between the low-fidelity wireframes and the final high-fidelity interfaces, spacing, margins, and grid alignment were adjusted across all pages to match design standards seen in event discovery and ticketing platforms. This significantly improved readability and navigation flow.
+
+
+#### Home Interface Evolution
+
+The original home wireframe presented a simple grid with limited filtering functionality. In the high-fidelity version, a cleaner, more spacious layout was adopted with:
+-A highlighted search bar
+-Category shortcuts
+-Featured events carousel
+-A more structured recommendation system
+
+These changes aimed to improve discoverability, reduce cognitive load, and present events more attractively from the first interaction.
+
+
+#### Event Details Interface Evolution
+
+Initially, the event detail screen provided only basic information (title, date, and description). During redesign, it was expanded into a complete event hub including:
+-A full-width event banner
+-A detailed event description
+-A schedule/activities section
+-A ticket-purchasing area
+-Organizer profile preview
+-Map preview and location details
+-FAQs and Support panel
+
+This transformation made the event screen more informative and aligned with real-world event platforms.
+
+
+#### User Profile Interface Evolution
+
+Early versions included only upcoming events. In the final version, the user profile evolved into a complete dashboard featuring:
+-Upcoming events
+-Past events
+-User statistics (reviews, attendance, followers, local exploration)
+-Profile editing options
+-Privacy and events history shortcuts
+
+This helped consolidate relevant user information in a single, organized space.
+
+
+#### Organizer Profile & Tools Evolution
+
+Originally absent in the first wireframes, the organizer experience was expanded into a complete management ecosystem:
+-Organizer Profile (description, statistics, followers)
+-Organizer Reviews
+-Event creation workflow
+-Event analytics
+-Ticket management
+-Event news publishing
+-Request change form
+
+These additions were essential to reflect the dual-user nature of Eventy.
+
+
+#### Help Center Interface Evolution
+
+The early version contained a minimal contact section. The final redesigned Help Center includes:
+-A structured FAQ panel
+-Expandable question cards
+-A fully functional contact form with category selection
+-Clear instructions and improved visual hierarchy
+
+This evolution created a support experience consistent with modern help systems.
+
+
+#### Redesign of the Navigable Prototype
+
+During the first prototype presentation, feedback indicated that although the structure was functional, the platform lacked a cohesive identity and several essential components. It also required a clearer differentiation between attendee and organizer experiences.
+
+This led to a major redesign, resulting in the current version:
+
+
+#### Key Improvements
+
+####✔ Consistent Cyan-Themed Visual Identity
+A unified visual palette was adopted, using blues and cyans to communicate reliability, clarity, and simplicity—values essential for a community-oriented event platform.
+
+####✔ Complete Event Creation Flow
+The previous prototype only partially represented the creation process.
+The new version includes 5 complete steps:
+1. General Information
+2. Logistics
+3. Access / Tickets
+4. Promotion
+5. Visual Identity
+   
+Each step includes real components, form validations, helper text, and consistent UI patterns.
+
+#### ✔ Expanded Organizer Tools
+To represent real needs, the following tools were added:
+-Ticket analytics
+-Sales management
+-Reviews
+-Publishing event news
+-Requests for changes
+-Event history
+
+#### ✔ Category Exploration
+A full categories page was added to improve discoverability and align with user mental models seen in platforms like Fever or Eventbrite.
+
+#### ✔ Improved Event Discovery
+Now featuring:
+-Dynamic search
+-Filters
+-Map / List toggle
+-Recommended events
+-Category shortcuts
+
+These changes provide a more modern and efficient browsing experience.
+
+#### ✔ More Complete User Experience
+The home page, profile pages, event views, and help center were redesigned with clearer hierarchy, stronger alignment, and more intuitive interactive elements.
+As design iterations progressed, each interface incorporated results from the heuristic evaluation and accessibility workshops.
+
+
+### 7.2 Results of the Heuristic Evaluation
+
+A heuristic evaluation was conducted after the mid-fidelity stage. At that point, several features—such as the organizer analytics dashboard, ticket sales view, and the Help Center—were still under development.
+Despite this, Eventy already displayed a consistent identity and UI direction.
+The evaluation revealed several usability issues that guided the next iteration of the design.
+
+#### Main Issues and Solutions
+
+| Problem                                                  | Solution                                                                |
+| -------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Lack of visual feedback and system status indicators.    | Added loading states, success/error messages, and confirmation dialogs. |
+| Inconsistent spacing, icon styles, and input components. | Introduced a unified design system with consistent components.          |
+| Limited filtering options reduced discoverability.       | Added filters by date, category, price, and location.                   |
+| No progress indicators during creation flows.            | Added step-by-step indicators with clear active states.                 |
+| Poor accessibility in contrast and text sizes.           | Updated palette, increased font sizes, and improved readability.        |
+| Lack of differentiation between event types.             | Introduced category icons and visual markers.                           |
+| Missing user control (“Back”, “Cancel”, “Save Draft”).   | Implemented navigation controls across all forms.                       |
+| Event and organizer flows were mixed.                    | Completely separated attendee and organizer navigation paths.           |
+
+
+### 7.3. High-Fidelity Interfaces
+
+After several iterations and incorporating the improvements identified during the heuristic evaluation, the final high-fidelity interfaces for Eventy were developed.
+
+These interfaces were built using structured components, standardized spacing, consistent interaction states, and accessibility best practices.
+
+
+#### Supported User Journeys
+Attendees can:
+-Explore events by date, category, or location
+-View detailed event information and activities
+-Purchase and manage tickets
+-Follow organizers
+-Receive notifications
+-View their calendar
+-Access a Help Center with FAQs and a contact form
+
+#### Organizers can:
+-Create events through a complete multi-step process
+-Manage event logistics and ticket inventories
+-Publish news and updates
+-View event analytics (views, sales, engagement)
+-Interact with reviews
+-Manage requests for changes
+-Maintain a professional organizer profile
+
+The final high-fidelity designs represent Eventy’s complete ecosystem and reinforce its core goal: connecting communities through accessible, intuitive, and visually consistent event discovery tools.
 
 The complete set of high-fidelity interfaces can be accessed through the following links:
 
